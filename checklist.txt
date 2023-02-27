@@ -1,0 +1,9 @@
+ID: ROIOEV454
+Title: Burger menu. Redirect to the registration page
+PreConditions: Open website
+Steps:
+1. Click button "Log in"
+2. Click button "Trade now"
+3. Click button "Menu"
+4. In the market tab, click the "trade" button
+Expected result: Redirect page to the trade platform
