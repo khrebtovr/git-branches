@@ -1,0 +1,13 @@
+Id: 06464DES
+Title: Invalid password link sent to email
+Priority: High
+Severity: Blocker
+Description: The link for setting the user password that is sent upon registration is broken, thus making the whole registration process impossible
+Author: Ruslan Khrebtov
+STR:
+1. Open The Website
+2. Begin the Account Registration process
+3. Click on the link that is sent by email
+Expected result: The User should be brought to a 'New Password'
+Actual result: The User receives an invalid password link
+Version: Chrome 110.0.5481.177
